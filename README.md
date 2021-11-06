@@ -9,7 +9,3 @@ Skills: JS / HTML
 
 - 🔭 I’m currently working on this page. 
 - 💎 https://discord.gg/0606
-
-```
-school doesn't give me money
-```
