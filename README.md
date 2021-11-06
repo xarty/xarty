@@ -10,4 +10,4 @@ Skills: JS / HTML
 - 🔭 I’m currently working on this page. 
 - 💎 https://discord.gg/0606
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xarty&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xarty&show_icons=true&theme=github_dark)
