@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm arty!
+![Profile views](https://gpvc.arturio.dev/xarty)  
 #### Welcome the my Github profile.
 ![Welcome the my Github profile.](https://cdn.discordapp.com/attachments/846344643381821510/906441556175769610/f8d453a279257e0b0128857d3bf0fd04.jpg)
 
