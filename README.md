@@ -11,5 +11,5 @@ Skills: JS / HTML
 - 💎 https://discord.gg/0606
 
 ```
-npm install arty
+school doesn't give me money
 ```
