@@ -9,6 +9,7 @@ Skills: JS / HTML
 - 🔭 I’m currently working on this page. 
 - 💎 https://discord.com/users/274646722096005120
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arty.xdd)  
 
 
 
