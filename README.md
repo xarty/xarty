@@ -10,5 +10,5 @@ Skills: JS / HTML
 - 🔭 I’m currently working on this page. 
 - 💎 https://discord.gg/0606
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xarty&show_icons=true&theme=dark)
 
