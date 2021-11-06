@@ -10,4 +10,6 @@ Skills: JS / HTML
 - 🔭 I’m currently working on this page. 
 - 💎 https://discord.gg/0606
 
-``` npm i arty ```
+```
+npm install arty
+```
