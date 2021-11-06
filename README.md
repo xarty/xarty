@@ -8,6 +8,6 @@ I like to code in my own way.
 Skills: JS / HTML
 
 - 🔭 I’m currently working <a href="https://github.com/xarty" rel="nofollow">on</a> this page. 
-- 💎 Join our discord <a href="https://discord.gg/0606" rel="nofollow">server</a>!
+- 💎 <a href="https://discord.gg/0606" rel="nofollow">Join</a> our discord server!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xarty&show_icons=true&theme=github_dark)
