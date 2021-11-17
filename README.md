@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm arty!
 ![Profile views](https://gpvc.arturio.dev/xarty)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/274646722096005120)](https://discord.com/users/274646722096005120)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/567016794674561035)](https://discord.com/users/567016794674561035)
 
 
 I like to code in my own way.
