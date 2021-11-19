@@ -7,6 +7,6 @@
 I like to code in my own way.
 
 - 🔭 I’m currently working <a href="https://github.com/xarty" rel="nofollow">on</a> this page. 
-- 💎 <a href="https://discord.gg/0606" rel="nofollow">Join</a> our discord server!
+- 💎 <a href="https://discord.gg/xEnYUdCf3g" rel="nofollow">Join</a> our discord server!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xarty&show_icons=true&theme=github_dark)
