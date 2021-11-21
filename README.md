@@ -1,4 +1,4 @@
-### Hi 👋, I'm arty!
+### Hi 👋, i'm arty!
 ![Profile views](https://gpvc.arturio.dev/xarty)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/567016794674561035)](https://discord.com/users/567016794674561035)
