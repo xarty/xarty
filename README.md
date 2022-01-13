@@ -10,4 +10,4 @@ I like to code in my own way.
 - 🧬 JS , HTML , PHP , CSS
 - 💎 <a href="https://discordapp.com/users/567016794674561035" rel="nofollow">Look</a> my discord profile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xarty&show_icons=true&theme=github_dark)
+
