@@ -4,7 +4,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/567016794674561035)](https://discord.com/users/567016794674561035)
 
 
-I like to code in my own way.
+Discord bot and website developer.
 
 - 🔭 Click <a href="https://discord.gg/bulut" rel="nofollow">here</a> to join the free code sharing server. 
 - 🧬 JS , HTML , PHP , CSS
