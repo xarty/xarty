@@ -6,7 +6,7 @@
 
 I like to code in my own way.
 
-- 🔭 I’m currently working <a href="https://github.com/xarty" rel="nofollow">on</a> this page. 
+- 🔭 I’m currently working <a href="https://discord.gg/bulut" rel="nofollow">on</a> this server. 
 - 🧬 JS , HTML , PHP , CSS
 - 💎 <a href="https://discordapp.com/users/567016794674561035" rel="nofollow">Look</a> my discord profile!
 
